@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "bc277069b94274bc802f2bc8504b45fa"
+build_time: [508925922, 313573000]
+inputs:
+  "/Users/baixuefei/Desktop/workspace/Test_Swift/TestSwift/SwiftWith3rdLibDemoTry/SwiftWith3rdLibDemoTry/ViewController.swift": [508925920, 0]
+  "/Users/baixuefei/Desktop/workspace/Test_Swift/TestSwift/SwiftWith3rdLibDemoTry/SwiftWith3rdLibDemoTry/AppDelegate.swift": [508925920, 0]
